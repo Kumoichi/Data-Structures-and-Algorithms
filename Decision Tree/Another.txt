@@ -1,0 +1,23 @@
+15
+Do you like exercise?
+Do you like game?
+Do you like Sports?
+Are you serious?
+Do you like Apex?
+Do you like running?
+Do you like soccer?
+oh...ok
+wow
+really?
+You are the best
+running is good though
+Have fun running
+unbelievable
+good choice
+6 13 14
+5 11 12
+4 9 10
+3 7 8
+1 3 4
+2 5 6
+0 1 2
